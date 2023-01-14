@@ -996,35 +996,35 @@ Now run the server.  It will give the selected map and details of the marked pla
 
 ### Rect Mark place in Map:
 
-![Rect_Mark_place_in_map](./img/rectmark.png)
+![Rect_Mark_place_in_map](./image/rectmark.png)
 
 ### Place-around-me (Bus Stand):
 
-![Place-around-me (Bus Stand)](./img/busstand.png)
+![Place-around-me (Bus Stand)](./image/busstand.png)
 
 ### Place-around-me (St.Joseph College):
 
-![Place-around-me (St.Joseph College)](./img/college.png)
+![Place-around-me (St.Joseph College)](./image/college.png)
 
 ### Bus Stand:
 
-![Bus_Stand](./img/busstand1.png)
+![Bus_Stand](./image/busstand1.png)
 
 ### Theater:
 
-![LA_Cinima](./img/cinima1.png)
+![LA_Cinima](./image/cinima1.png)
 
 ### St.Joseph College:
 
-![St.Joseph College](./img/college1.png)
+![St.Joseph College](./image/college1.png)
 
 ### Pothys:
 
-![Pothys](./img/pothys1.png)
+![Pothys](./image/pothys1.png)
 
 ### Saradhas: 
 
-![Saradhas](./img/saradhas1.png)
+![Saradhas](./image/saradhas1.png)
 
 ## Result:
 
